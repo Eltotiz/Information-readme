@@ -8,4 +8,4 @@ Javascript📔
 Shell🔳
 
 ------
-Hace poco empecé a subir proyectos por si querés verlos.
+Recién empecé a subir proyectos por si querés verlos.
