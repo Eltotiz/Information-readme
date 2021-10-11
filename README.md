@@ -5,7 +5,5 @@
 -Lenguajes que quiero aprender:
 Python🐍
 Javascript📔
-Shell🔳
-
 ------
 Recién empecé a subir proyectos por si querés verlos.
